@@ -49,7 +49,7 @@ def delete_video(videos):
 def main():
     videos = load_data()
     while True:
-        print("/n Youtube Manager")
+        print(" Youtube Manager")
         print("1. List all youtube videos")
         print("2. Add a youtube video")
         print("3. Update a youtube video details")
